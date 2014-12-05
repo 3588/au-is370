@@ -1,0 +1,22 @@
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\bin\Debug\Kettleson Project.exe.config
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\bin\Debug\Kettleson Project.exe
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\bin\Debug\Kettleson Project.pdb
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\bin\Debug\Kettleson Project.xml
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson_Project.frmMain.resources
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson_Project.Resources.resources
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.vbproj.GenerateResource.Cache
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.exe
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.xml
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.pdb
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\bin\Debug\Kettleson Project.exe.config
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.exe
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.xml
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.pdb
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\bin\Debug\Kettleson Project.exe.config
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.exe
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.xml
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.pdb
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\bin\Debug\Kettleson Project.exe.config
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.exe
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.xml
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Kettleson Solution Modified\Kettleson Solution\Kettleson Project\obj\Debug\Kettleson Project.pdb

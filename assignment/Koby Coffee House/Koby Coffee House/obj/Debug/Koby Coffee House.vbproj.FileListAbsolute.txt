@@ -1,0 +1,24 @@
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\bin\Debug\Koby Coffee House.exe.config
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\bin\Debug\Koby Coffee House.exe
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\bin\Debug\Koby Coffee House.pdb
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\bin\Debug\Koby Coffee House.xml
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\obj\Debug\Koby_Coffee_House.Form1.resources
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\obj\Debug\Koby_Coffee_House.Resources.resources
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\obj\Debug\Koby Coffee House.vbproj.GenerateResource.Cache
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\obj\Debug\Koby Coffee House.exe
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\obj\Debug\Koby Coffee House.xml
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Koby Coffee House\obj\Debug\Koby Coffee House.pdb
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\bin\Debug\Koby Coffee House.exe.config
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\obj\Debug\Koby Coffee House.exe
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\obj\Debug\Koby Coffee House.xml
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\obj\Debug\Koby Coffee House.pdb
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\bin\Debug\Koby Coffee House.exe
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\bin\Debug\Koby Coffee House.pdb
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\bin\Debug\Koby Coffee House.xml
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\obj\Debug\Koby_Coffee_House.Form1.resources
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\obj\Debug\Koby_Coffee_House.Resources.resources
+Z:\Dropbox\code\is370\Koby Coffee House\Koby Coffee House\obj\Debug\Koby Coffee House.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Koby Coffee House\Koby Coffee House\bin\Debug\Koby Coffee House.exe.config
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Koby Coffee House\Koby Coffee House\obj\Debug\Koby Coffee House.exe
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Koby Coffee House\Koby Coffee House\obj\Debug\Koby Coffee House.xml
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Koby Coffee House\Koby Coffee House\obj\Debug\Koby Coffee House.pdb

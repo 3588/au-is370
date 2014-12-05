@@ -1,0 +1,10 @@
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\obj\Debug\Sharon_s_Chocolates.Form1.resources
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\obj\Debug\Sharon_s_Chocolates.Resources.resources
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\obj\Debug\Sharon's Chocolates.vbproj.GenerateResource.Cache
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\bin\Debug\Sharons Chocolates.exe.config
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\bin\Debug\Sharons Chocolates.exe
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\bin\Debug\Sharons Chocolates.pdb
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\bin\Debug\Sharons Chocolates.xml
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\obj\Debug\Sharons Chocolates.exe
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\obj\Debug\Sharons Chocolates.xml
+C:\Users\junjun huang\AppData\Local\Temporary Projects\Sharon's Chocolates\obj\Debug\Sharons Chocolates.pdb

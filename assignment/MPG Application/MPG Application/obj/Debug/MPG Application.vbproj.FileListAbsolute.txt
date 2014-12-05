@@ -1,0 +1,20 @@
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\bin\Debug\MPG Application.exe.config
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\bin\Debug\MPG Application.exe
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\bin\Debug\MPG Application.pdb
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\bin\Debug\MPG Application.xml
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\obj\Debug\MPG_Application.Form1.resources
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\obj\Debug\MPG_Application.Resources.resources
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\obj\Debug\MPG Application.vbproj.GenerateResource.Cache
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\obj\Debug\MPG Application.exe
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\obj\Debug\MPG Application.xml
+C:\Users\JUNJUN\Dropbox\code\is370\MPG Application\MPG Application\obj\Debug\MPG Application.pdb
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\bin\Debug\MPG Application.exe.config
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\obj\Debug\MPG Application.exe
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\obj\Debug\MPG Application.xml
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\obj\Debug\MPG Application.pdb
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\bin\Debug\MPG Application.exe
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\bin\Debug\MPG Application.pdb
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\bin\Debug\MPG Application.xml
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\obj\Debug\MPG_Application.Form1.resources
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\obj\Debug\MPG_Application.Resources.resources
+D:\云\Dropbox\education\Ashland\2014Fall\is370\au-is370\assignment\MPG Application\MPG Application\obj\Debug\MPG Application.vbproj.GenerateResource.Cache

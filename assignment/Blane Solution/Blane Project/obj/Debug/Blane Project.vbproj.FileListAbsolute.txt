@@ -1,0 +1,10 @@
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.exe.config
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.exe
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.pdb
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\bin\Debug\Blane Project.xml
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane_Project.frmMain.resources
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane_Project.Resources.resources
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.vbproj.GenerateResource.Cache
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.exe
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.xml
+F:\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap05\Blane Solution\Blane Project\obj\Debug\Blane Project.pdb

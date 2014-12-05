@@ -1,0 +1,35 @@
+F:\Zak VB 2012 Solution\VB2012\Chap05\lcSunnyside Solution\Sunnyside Project\bin\Debug\Sunnyside Project.exe.config
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.exe.config
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.exe
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.pdb
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.xml
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside_Project.frmMain.resources
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside_Project.Resources.resources
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.vbproj.GenerateResource.Cache
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.exe
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.xml
+H:\!370 371\Fall 14\Week 13\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.pdb
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.exe.config
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.exe
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.xml
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.pdb
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.exe
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.pdb
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.xml
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside_Project.frmMain.resources
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside_Project.Resources.resources
+F:\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.vbproj.GenerateResource.Cache
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.exe.config
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.exe
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.xml
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.pdb
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.exe.config
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.exe
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.xml
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.pdb
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.exe
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.pdb
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\bin\Debug\Sunnyside Project.xml
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside_Project.frmMain.resources
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside_Project.Resources.resources
+\\vmware-host\Shared Folders\Copy\education\Ashland\2014Fall\is370\au-is370\exam\2\Exam_NOT_Done\Exam NOT Done\Sunnyside Project\obj\Debug\Sunnyside Project.vbproj.GenerateResource.Cache

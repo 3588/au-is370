@@ -1,0 +1,30 @@
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.exe.config
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.exe
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.pdb
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.xml
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington_Resort_Project.frmMain.resources
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington_Resort_Project.Resources.resources
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.vbproj.GenerateResource.Cache
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.exe
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.xml
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\Data Files\128507792X_395252\VB2012\Chap04\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.pdb
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.exe.config
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.exe
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.xml
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.pdb
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.exe
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.pdb
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.xml
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\obj\Debug\Covington_Resort_Project.frmMain.resources
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\obj\Debug\Covington_Resort_Project.Resources.resources
+C:\Users\JUNJUN\Copy\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.vbproj.GenerateResource.Cache
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.exe.config
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.exe
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.xml
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.pdb
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.exe
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.pdb
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\bin\Debug\Covington Resort Project.xml
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\obj\Debug\Covington_Resort_Project.frmMain.resources
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\obj\Debug\Covington_Resort_Project.Resources.resources
+F:\education\Ashland\2014Fall\is370\au-is370\assignment\Covington Resort\Covington Resort\Covington Resort Project\obj\Debug\Covington Resort Project.vbproj.GenerateResource.Cache

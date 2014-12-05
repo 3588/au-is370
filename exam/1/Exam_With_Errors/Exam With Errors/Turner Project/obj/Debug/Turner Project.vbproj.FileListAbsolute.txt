@@ -1,0 +1,40 @@
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\bin\Debug\Turner Project.exe.config
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\bin\Debug\Turner Project.exe
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\bin\Debug\Turner Project.pdb
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\bin\Debug\Turner Project.xml
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\obj\Debug\Turner_Project.frmMain.resources
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\obj\Debug\Turner_Project.Resources.resources
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\obj\Debug\Turner Project.vbproj.GenerateResource.Cache
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\obj\Debug\Turner Project.exe
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\obj\Debug\Turner Project.xml
+E:\Visual Basic 2012 Fall 13\Zak VB 2012 Solution\VB2012\Chap03\lbModified Turner Solution\Turner Project\obj\Debug\Turner Project.pdb
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\bin\Debug\Turner Project.exe.config
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\obj\Debug\Turner Project.exe
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\obj\Debug\Turner Project.xml
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\obj\Debug\Turner Project.pdb
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\bin\Debug\Turner Project.exe
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\bin\Debug\Turner Project.pdb
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\bin\Debug\Turner Project.xml
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\obj\Debug\Turner_Project.frmMain.resources
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\obj\Debug\Turner_Project.Resources.resources
+H:\!370 371\Fall 14\Week 7\Exam Completed\Turner Project\obj\Debug\Turner Project.vbproj.GenerateResource.Cache
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\bin\Debug\Turner Project.exe.config
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\obj\Debug\Turner Project.exe
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\obj\Debug\Turner Project.xml
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\obj\Debug\Turner Project.pdb
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\bin\Debug\Turner Project.exe
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\bin\Debug\Turner Project.pdb
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\bin\Debug\Turner Project.xml
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\obj\Debug\Turner_Project.frmMain.resources
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\obj\Debug\Turner_Project.Resources.resources
+H:\!370 371\Fall 14\Week 7\Exam With Errors\Turner Project\obj\Debug\Turner Project.vbproj.GenerateResource.Cache
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\bin\Debug\Turner Project.exe.config
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\obj\Debug\Turner Project.exe
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\obj\Debug\Turner Project.xml
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\obj\Debug\Turner Project.pdb
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\bin\Debug\Turner Project.exe
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\bin\Debug\Turner Project.pdb
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\bin\Debug\Turner Project.xml
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\obj\Debug\Turner_Project.frmMain.resources
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\obj\Debug\Turner_Project.Resources.resources
+C:\Users\JUNJUN\Dropbox\education\Ashland\2014Fall\is370\au-is370\exam\1\Exam_With_Errors\Exam With Errors\Turner Project\obj\Debug\Turner Project.vbproj.GenerateResource.Cache
